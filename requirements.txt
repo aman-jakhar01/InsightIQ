@@ -1,0 +1,14 @@
+streamlit
+pandas
+numpy
+plotly
+openpyxl
+scikit-learn
+reportlab
+LangChain
+langchain
+langchain-groq
+python-dotenv
+statsmodels
+matplotlib
+
